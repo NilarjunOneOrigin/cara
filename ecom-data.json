@@ -1,0 +1,142 @@
+{
+    "shopData": [
+      {
+        "photo": "/img/products/f1.jpg",
+        
+        "cname": "Adidas",
+        "type": "Cartoon Astronaut T-Shirts",
+       
+        "price":" $32"
+        
+      },
+      {
+        "photo": "/img/products/f2.jpg",
+        
+        "cname": "Adidas",
+        "type": "FLOG- MENS FLORAL PRINT SHIRT - BEIGE",
+       
+        "price":" $19"
+      },
+      {
+        "photo": "/img/products/f3.jpg",
+        
+        "cname": "Nike",
+        "type": "IVY LS- MENS FANTASY PRINT SHIRT - BEIGE",
+       
+        "price": "$41"
+      },
+      {
+        "photo": "/img/products/f4.jpg",
+        
+        "cname": "Nike",
+        "type": "Abstract Element Print Shirts",
+       
+        "price": "$25"
+      },
+      {
+        "photo": "/img/products/f5.jpg",
+        
+        "cname": "Puma",
+        "type": "Pattern Print Breathable Shirts",
+       
+        "price": "$33"
+      },
+      {
+        "photo": "/img/products/f6.jpg",
+        
+        "cname": "Puma",
+        "type": "RAYO- SLIM FIT CHECK SHIRT",
+       
+        "price":" $21"
+      },
+      {
+        "photo": "/img/products/f7.jpg",
+        
+        "cname": "ZARA",
+        "type": "Multicolor Block Printed Elasticated Waist Cotton Pants",
+       
+        "price": "$31"
+      },
+      {
+        "photo": "/img/products/f8.jpg",
+        
+        "cname": "ZARA",
+        "type": "GINGER Women Printed Top",
+       
+        "price": "$40"
+    
+      
+      }
+     
+     
+    ],
+  
+
+    "arrivalData": [
+      {
+        "photo": "/img/products/n1.jpg",
+        
+        "cname": "HM",
+        "type": "Relaxed Fit Oxford shirts",
+       
+        "price":" $32"
+        
+      },
+      {
+        "photo": "/img/products/n2.jpg",
+        
+        "cname": "HM",
+        "type": "Linen-blend shirt Slim Fit",
+       
+        "price":" $19"
+      },
+      {
+        "photo": "/img/products/n3.jpg",
+        
+        "cname": "HM",
+        "type": "Cotton shirt Regular Fit",
+       
+        "price": "$41"
+      },
+      {
+        "photo": "/img/products/n4.jpg",
+        
+        "cname": "HM",
+        "type": "Lyocell resort shirt",
+       
+        "price": "$25"
+      },
+      {
+        "photo": "/img/products/n5.jpg",
+        
+        "cname": "ALLEN SOLLY",
+        "type": "ALLEN SOLLY BLUE SHIRT",
+       
+        "price": "$33"
+      },
+      {
+        "photo": "/img/products/n6.jpg",
+        
+        "cname": "ALLEN SOLLY",
+        "type": "Allen Solly Cream Shorts",
+       
+        "price":" $21"
+      },
+      {
+        "photo": "/img/products/n7.jpg",
+        
+        "cname": "ZARA",
+        "type": "SWEATSHIRT WITH ABSTRACT PRINT",
+       
+        "price": "$31"
+      },
+      {
+        "photo": "/img/products/n8.jpg",
+        
+        "cname": "JACK & JONES",
+        "type": "JACK & JONES Men Solid Regular Fit Casual Shirt",
+       
+        "price": "$40"
+      }
+    ]
+  }
