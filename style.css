@@ -139,7 +139,7 @@ body{
 /*Home page */
 
 #hero{
-    background-image: url("/img/hero4.png");
+    background-image: url("img/hero4.png");
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -374,7 +374,7 @@ sm banner */
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url("/img/banner/b17.jpg");
+    background-image: url("img/banner/b17.jpg");
     min-width: 545px;
     height: 50vh;
     background-size: cover;
@@ -442,7 +442,7 @@ button.white{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url("/img/banner/b7.jpg");
+    background-image: url("img/banner/b7.jpg");
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -469,10 +469,10 @@ button.white{
 }
 
 #banner3 .banner-box2{
-    background-image: url("/img/banner/b4.jpg");
+    background-image: url("img/banner/b4.jpg");
 }
 #banner3 .banner-box3{
-    background-image: url("/img/banner/b18.jpg");
+    background-image: url("img/banner/b18.jpg");
 }
 
 #newsletter{
@@ -480,7 +480,7 @@ button.white{
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url("/img/banner/b14.png");
+    background-image: url("img/banner/b14.png");
     background-repeat: no-repeat;
     background-position: 20% 30%;
     background-color: #041e42;
@@ -785,7 +785,7 @@ media */
 
 
 #page-header{
-    background-image: url("/img/banner/b1.jpg");
+    background-image: url("img/banner/b1.jpg");
     width: 100%;
     height: 40vh;
     background-size: cover;
